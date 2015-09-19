@@ -1,21 +1,23 @@
 # Simple Web Application with Angular and NodeJs
 Build a web application with Angular JS and Node Js
 ## UI Demo
-1. Get list users
+1. #### Get list users
 ![Get list users](/Captures/getUserList.png)
 
-2. Add new user
+2. #### Add new user
 ![Add new user](/Captures/addUser.png)
 
-3. Edit user
+3. #### Edit user
 ![Edit user](/Captures/editUser.png)
 
-4. Delete user
-* Confirm delte
+4. #### Delete user
+* ###### Confirm delete
 ![Confirm delete user](/Captures/deleteUser1.png)
-* Delete successfully
+* ###### Delete success
 ![Confirm delete user successfully](/Captures/deleteUser2.png)
+
 ## References
+
 ### Frontend
 1. [Bootstrap CSS](http://getbootstrap.com)
 2. [Angular JS](http://angularjs.org)
