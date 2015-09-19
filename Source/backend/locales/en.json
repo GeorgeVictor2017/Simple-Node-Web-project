@@ -1,0 +1,6 @@
+{
+	"getUserList": "Get user list successfully!",
+	"createUser": "Create user successfully!",
+	"editUser": "Update user successfully!",
+	"deleteUser": "Delete user successfully!"
+}

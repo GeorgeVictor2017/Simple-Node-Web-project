@@ -1,0 +1,24 @@
+{
+	"name": "Name",
+	"enterName": "Enter name",
+	"major": "Major",
+	"enterMajor": "Enter major",
+	"dob": "Date of Birth",
+	"enterDob": "Enter date of birth",
+	"gender": "Gender",
+	"male": "Male",
+	"female": "Female",
+	"no": "No.",
+	"userList": "User List",
+	"action": "Action",
+	"getUserListSuccessfully": "Get user list successfully!",
+	"createUserSuccessfully": "User {0} has been created successfully!",
+	"updateUserSuccessfully": "User {0} has been updated successfully!",
+	"confirmDeleteUser": "Do you want to delete this user?",
+	"deleteUserSuccessfully": "User {0} has been deleted successfully!",
+	"saveButton": "Save",
+	"editButton": "Edit user",
+	"deleteButton": "Delete user",
+	"cancelButton": "Cancel"
+
+}

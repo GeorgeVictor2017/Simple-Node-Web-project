@@ -1,0 +1,23 @@
+{
+	"name": "Tên",
+	"enterName": "Nhập tên",
+	"major": "Chuyên ngành",
+	"enterMajor": "Nhập chuyên ngành",
+	"dob": "Ngày sinh",
+	"enterDob": "Nhập ngày sinh",
+	"gender": "Giới tính",
+	"male": "Nam",
+	"female": "Nữ",
+	"no": "STT",
+	"userList": "Danh sách người dùng",
+	"action": "Tùy chỉnh",
+	"getUserListSuccessfully": "Lấy danh sách người dùng thành công!",
+	"createUserSuccessfully": "Người dùng {0} đã được tạo thành công!",
+	"updateUserSuccessfully": "Người dùng {0} đã được cập nhật thành công!",
+	"confirmDeleteUser": "Bạn có muốn xóa người dùng này không?",
+	"deleteUserSuccessfully": "Đã xóa {0} thành công!",
+	"saveButton": "Lưu",
+	"editButton": "Sửa người dùng",
+	"deleteButton": "Xóa người dùng",
+	"cancelButton": "Hủy bỏ"
+}
