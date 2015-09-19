@@ -15,6 +15,11 @@ Build a web application with Angular JS and Node Js
 ![Confirm delete user](/Captures/deleteUser1.png)
 ##### Delete success
 ![Confirm delete user successfully](/Captures/deleteUser2.png)
+#### Angular Localization
+Support English and Vietnamese
+![Capture 1](/Captures/getUserListVi.png) 
+
+![Capture 2](/Captures/editUserVi.png) 
 
 ## References
 
