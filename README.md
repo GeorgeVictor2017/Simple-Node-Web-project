@@ -1,4 +1,4 @@
-# Simpel Web Application with Angular and NodeJs
+# Simple Web Application with Angular and NodeJs
 Build a web application with Angular JS and Node Js
 ## UI Demo
 1. Get list users
